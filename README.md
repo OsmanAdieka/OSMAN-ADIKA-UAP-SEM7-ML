@@ -1,6 +1,4 @@
-Berikut adalah README yang sudah diperbaiki dan dirapikan:
-
----
+![clipart1295102](https://github.com/user-attachments/assets/1aa730b9-2cd8-4120-abf3-8d090ece10dd)
 
 # ☀️ Prediksi Hujan Besok ⛈️
 
@@ -36,7 +34,7 @@ Aplikasi akan terbuka di browser pada `localhost:8501`.
 Model yang digunakan dalam aplikasi ini adalah **Feedforward Neural Network (FNN)** dengan dua hidden layers. Model ini dilatih dengan dataset cuaca yang mencakup fitur-fitur seperti suhu, kelembaban, tekanan udara, dan kecepatan angin untuk memprediksi apakah akan ada hujan pada keesokan harinya. Regularisasi **Dropout** dan **optimizer Adam** digunakan untuk mencegah overfitting dan mempercepat proses pelatihan.
 
 ## Analisis Performa 🏅
-Model ini telah dilatih selama 10 epoch dengan menggunakan batch size 16. Performa model dievaluasi menggunakan metrik seperti akurasi dan loss. Beberapa teknik augmentasi data, seperti penggunaan **GAN**, telah diterapkan untuk meningkatkan kinerja model pada kelas minoritas. Meskipun akurasi keseluruhan sedikit menurun, model menunjukkan peningkatan signifikan dalam mengklasifikasikan kelas minoritas.
+Model ini telah dilatih selama 10 epoch dengan menggunakan batch size 16. Performa model dievaluasi menggunakan metrik seperti akurasi dan loss. Dengan membandingkan antara kedua metode deep learning antara FNN dan TabNet, lalu menggunakan model dengan hasil terbaik (FNN).
 
 ## Hasil dan Analisis 📊
 
@@ -77,11 +75,23 @@ weighted avg       0.83      0.84      0.83     29092
 - **Precision:** 88%
 - **Recall:** 82%
 
-Grafik atau visualisasi lebih lanjut dapat membantu memberikan gambaran lebih jelas mengenai perbandingan performa kedua model.
+Berikut adalah perbandingan grafik dan confusion matrix antara kedua model:
+Grafik training dan validation akurasi untuk FNN.
+![train_val fnn](https://github.com/user-attachments/assets/646f2372-8bfc-4a98-9b29-b17f39e58caf)
+
+Grafik training dan validation loss untuk FNN.
+![train_val loss_fnn](https://github.com/user-attachments/assets/99c171d5-e11a-43b6-a9f4-d43a75e45e3e)
+
+Confusion matrix FNN.
+![conf_fnn](https://github.com/user-attachments/assets/09606f7e-7ae1-4c76-af07-ef3b63a72e23)
+
+Confusion matrix TabNet.
+![conf_tabnet](https://github.com/user-attachments/assets/8581cfc8-1b64-4ec5-b01e-80a1023952df)
+
+## Kontribusi 👥
+Proyek ini merupakan hasil individu oleh Osman Adika 
 
 ## Link Live Demo 🌐
 [Klik di sini untuk mencoba aplikasi live demo](#)
 
 ---
-
-README ini sudah siap untuk dipasang di GitHub. Semoga membantu!
