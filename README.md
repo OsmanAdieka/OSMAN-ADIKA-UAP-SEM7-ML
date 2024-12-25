@@ -1,6 +1,10 @@
-![clipart1295102](https://github.com/user-attachments/assets/1aa730b9-2cd8-4120-abf3-8d090ece10dd)
+---
 
-# ☀️ Prediksi Hujan Besok ⛈️
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1aa730b9-2cd8-4120-abf3-8d090ece10dd" width="100"/>
+</p>
+
+# ☀️ **Prediksi Hujan Besok** ⛈️
 
 ## Deskripsi Proyek 📜
 Proyek ini bertujuan untuk memprediksi kemungkinan hujan pada keesokan harinya berdasarkan data cuaca yang diberikan. Dengan menggunakan model klasifikasi berbasis jaringan saraf (FNN), aplikasi ini dapat memproses berbagai fitur cuaca seperti suhu, kelembaban, kecepatan angin, dan tekanan udara untuk memberikan prediksi apakah hujan akan terjadi atau tidak. Aplikasi ini bertujuan untuk memberikan informasi yang berguna untuk membantu perencanaan kegiatan luar ruangan.
@@ -75,21 +79,29 @@ weighted avg       0.83      0.84      0.83     29092
 - **Precision:** 88%
 - **Recall:** 82%
 
-Berikut adalah perbandingan grafik dan confusion matrix antara kedua model:
-Grafik training dan validation akurasi untuk FNN.
-![train_val fnn](https://github.com/user-attachments/assets/646f2372-8bfc-4a98-9b29-b17f39e58caf)
+### Grafik dan Confusion Matrix 📉
+Grafik training dan validation akurasi untuk FNN:
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/646f2372-8bfc-4a98-9b29-b17f39e58caf" width="600"/>
+</p>
 
-Grafik training dan validation loss untuk FNN.
-![train_val loss_fnn](https://github.com/user-attachments/assets/99c171d5-e11a-43b6-a9f4-d43a75e45e3e)
+Grafik training dan validation loss untuk FNN:
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/99c171d5-e11a-43b6-a9f4-d43a75e45e3e" width="600"/>
+</p>
 
-Confusion matrix FNN.
-![conf_fnn](https://github.com/user-attachments/assets/09606f7e-7ae1-4c76-af07-ef3b63a72e23)
+Confusion matrix FNN:
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/09606f7e-7ae1-4c76-af07-ef3b63a72e23" width="600"/>
+</p>
 
-Confusion matrix TabNet.
-![conf_tabnet](https://github.com/user-attachments/assets/8581cfc8-1b64-4ec5-b01e-80a1023952df)
+Confusion matrix TabNet:
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8581cfc8-1b64-4ec5-b01e-80a1023952df" width="600"/>
+</p>
 
 ## Kontribusi 👥
-Proyek ini merupakan hasil individu oleh Osman Adika 
+Proyek ini merupakan hasil individu oleh [Osman Adieka](https://github.com/OsmanAdieka).
 
 ## Link Live Demo 🌐
 [Klik di sini untuk mencoba aplikasi live demo](#)
