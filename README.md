@@ -6,6 +6,8 @@
 
 # ☀️ **Prediksi Hujan Besok** ⛈️
 
+by: Osman Adika Rais_202110370311214
+
 ## Deskripsi Proyek 📜
 Proyek ini bertujuan untuk memprediksi kemungkinan hujan pada keesokan harinya berdasarkan data cuaca yang diberikan. Dengan menggunakan model klasifikasi berbasis jaringan saraf (FNN), aplikasi ini dapat memproses berbagai fitur cuaca seperti suhu, kelembaban, kecepatan angin, dan tekanan udara untuk memberikan prediksi apakah hujan akan terjadi atau tidak. Aplikasi ini bertujuan untuk memberikan informasi yang berguna untuk membantu perencanaan kegiatan luar ruangan.
 
@@ -101,7 +103,7 @@ Confusion matrix TabNet:
 </p>
 
 ## Kontribusi 👥
-Proyek ini merupakan hasil individu oleh [Osman Adieka](https://github.com/OsmanAdieka).
+Proyek ini merupakan hasil individu oleh [Osman Adika Rais](https://github.com/OsmanAdieka).
 
 ## Link Live Demo 🌐
 [Klik di sini untuk mencoba aplikasi live demo](#)
