@@ -110,7 +110,7 @@ Confusion matrix TabNet:
 ## Kontribusi 👥
 Proyek ini merupakan hasil individu oleh [Osman Adika Rais](https://github.com/OsmanAdieka).
 
-## Link Live Demo 🌐
+## Live Demo 🌐 (UNDER MAINTENANCE)
 [Klik di sini untuk mencoba aplikasi live demo](#)
 
 ---
