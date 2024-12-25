@@ -1,0 +1,12 @@
+streamlit==1.37.0
+tensorflow>=2.18.0
+joblib>=1.4.2
+scikit-learn>=1.6.0
+tensorflow-io-gcs-filesystem==0.31.0
+pandas
+matplotlib
+seaborn
+kaggle
+pytorch-tabnet
+numpy
+google-colab
