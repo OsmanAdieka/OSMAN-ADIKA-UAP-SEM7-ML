@@ -4,9 +4,13 @@
   <img src="https://github.com/user-attachments/assets/1aa730b9-2cd8-4120-abf3-8d090ece10dd" width="100"/>
 </p>
 
-# ☀️ **Prediksi Hujan Besok** ⛈️
+# ☀️ **Weather Forecast** ⛈️
 
-by: Osman Adika Rais_202110370311214
+sub-title: Penerapan Teknik MAchine Learning untuk Prediksi Hujan Berdasarkan Data Meteorologi Australia
+by: Osman Adika Rais (202110370311214)
+
+## Disclaimer ⚠️
+Data yang digunakan merupakan dataset dari meteorologi australia, dataset tersebut diolah oleh model agar dapat menghasilkan prediksi
 
 ## Deskripsi Proyek 📜
 Proyek ini bertujuan untuk memprediksi kemungkinan hujan pada keesokan harinya berdasarkan data cuaca yang diberikan. Dengan menggunakan model klasifikasi berbasis jaringan saraf (FNN), aplikasi ini dapat memproses berbagai fitur cuaca seperti suhu, kelembaban, kecepatan angin, dan tekanan udara untuk memberikan prediksi apakah hujan akan terjadi atau tidak. Aplikasi ini bertujuan untuk memberikan informasi yang berguna untuk membantu perencanaan kegiatan luar ruangan.
